@@ -12,8 +12,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Author](#author)
 
-
 ## Overview
+This is the first time I try a challenge from frontend mentor. Hope to complete it succesfully.
 
 ### Screenshot
 
@@ -36,6 +36,4 @@ First, I wrote the html. Then I linked neccesary files, like styles and google f
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - https://www.frontendmentor.io/profile/magistermu
